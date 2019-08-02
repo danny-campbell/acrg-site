@@ -1,0 +1,52 @@
+---
+authors:
+- mr
+weight: 12
+bio: ""
+education:
+  courses:
+  - course: Ph.D. in Consumer Choice and Risk Communication
+    institution: University of Stirling
+    year: 2016-present
+  - course: M.Sc. in Social Statistics and Social Research
+    institution: University of Stirling
+    year: 2016
+  - course: Pg.D. in Economics
+    institution: University of Dundee
+    year: 2015
+  - course: M.Sc. in Business Administration
+    institution: Bucharest University of Economic Studies
+    year: 2011
+  - course: B.Sc. in Economics
+    institution: Bucharest University of Economic Studies
+    year: 2011
+email: ""
+interests:
+- Stated choice analysis
+- Behavioural economics
+- Consumer economics
+- Decision-making
+- Food safety
+- Communication strategies
+name: Madalina Radu
+organizations:
+- name: University of Stirling
+  url: "https://www.stir.ac.uk/"
+role: Ph.D. Candidate
+social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:madalina.radu@stir.ac.uk
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/MadiRadu
+- icon: linkedin
+  icon_pack: fab
+  link: https://uk.linkedin.com/in/madalina-radu-ecphd9
+
+superuser: false
+user_groups:
+- Ph.D. Students
+---
+
+Madalina Radu is a Ph.D. student in Economics at the Management School of the University of Stirling. Her research interest lies in the areas of choices analysis and valuation of communication strategies used to deliver risk and food safety information to consumers. Her work has focused on stated preferences survey design, framing and choice behaviour, and opt-out effects in choice models. Her research also aims to identify efficient ways to communicate risk to consumers.

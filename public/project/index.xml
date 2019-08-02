@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Applied Choice Research Group</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Applied Choice Research Group</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year} Applied Choice Research Group</copyright>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Environment</title>
+      <link>/project/environment/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/environment/</guid>
+      <description>&lt;p&gt;Our environmental economics research is characterized by interest in and focus on topics relevant for environmental policy. Recent research projects have focused on:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Water quality.&lt;/li&gt;
+&lt;li&gt;Ecosystem services.&lt;/li&gt;
+&lt;li&gt;Marine plastics.&lt;/li&gt;
+&lt;li&gt;Energy.&lt;/li&gt;
+&lt;li&gt;Forestry.&lt;/li&gt;
+&lt;li&gt;Outdoor recreation.&lt;/li&gt;
+&lt;li&gt;Agri-environment.&lt;/li&gt;
+&lt;li&gt;Conservation.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Health</title>
+      <link>/project/health/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/health/</guid>
+      <description>&lt;p&gt;Our health economics research cuts across a wide range of topics relating to public health policy. Recent research projects have focused on:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Public involvement in decisions concerning the health care system.&lt;/li&gt;
+&lt;li&gt;Food choice and diet.&lt;/li&gt;
+&lt;li&gt;Well-being.&lt;/li&gt;
+&lt;li&gt;Prioritisation of health service innovations.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Consumer</title>
+      <link>/project/consumer/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/consumer/</guid>
+      <description>&lt;p&gt;Our research includes a broad range of marketing and consumer topics. Recent research projects have focused on:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Food choice.&lt;/li&gt;
+&lt;li&gt;Wine choice.&lt;/li&gt;
+&lt;li&gt;Financial services.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

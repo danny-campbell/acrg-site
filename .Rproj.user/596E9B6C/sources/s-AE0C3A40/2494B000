@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562960959988.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2586153985",
+    "id" : "2494B000",
+    "lastKnownWriteTime" : 1562873929,
+    "last_content_update" : 1562873929,
+    "path" : "C:/Users/DC/Dropbox/website_R_blogdown/group/group_web/r_stuff.R",
+    "project_path" : "r_stuff.R",
+    "properties" : {
+        "cursorPosition" : "7,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

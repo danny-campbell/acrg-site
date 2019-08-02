@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Applied Choice Research Group</title>
+    <link>/authors/danny-campbell/</link>
+    <description>Recent content on Applied Choice Research Group</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year} Applied Choice Research Group</copyright>
+    <lastBuildDate>Mon, 19 Aug 2019 16:15:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/danny-campbell/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A simple satisficing model</title>
+      <link>/talk/example/</link>
+      <pubDate>Mon, 19 Aug 2019 16:15:00 +0000</pubDate>
+      
+      <guid>/talk/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accommodating satisficing behaviour in stated choice experiments</title>
+      <link>/publication/erae-2019/</link>
+      <pubDate>Sat, 02 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/erae-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Including opt-out options in discrete choice experiments: Issues to consider</title>
+      <link>/publication/patient-2019/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/patient-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Including value orientations in choice models to estimate benefits of wildlife management policies</title>
+      <link>/publication/ee-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ee-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taboo trade-off aversion: A discrete choice model and empirical analysis</title>
+      <link>/publication/jocm-2018/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/jocm-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The link between response time and preference, variance and processing heterogeneity in stated choice experiments</title>
+      <link>/publication/jeem-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/jeem-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using eye tracking to account for attribute non-attendance in choice experiments</title>
+      <link>/publication/erae-2018/</link>
+      <pubDate>Thu, 15 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/erae-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using geographically weighted choice models to account for the spatial heterogeneity of preferences</title>
+      <link>/publication/jae-2018/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/jae-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preferences for public involvement in health service decisions: A comparison between best-worst scaling and trio-wise stated preference elicitation techniques</title>
+      <link>/publication/ejhe-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ejhe-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial heterogeneity of willingness to pay for forest management</title>
+      <link>/publication/ere_2017a/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ere_2017a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating the Irish public&#39;s willingness to pay for more sustainable salmon produced by integrated multi-trophic aquaculture</title>
+      <link>/publication/mp-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/mp-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disentangling the influence of knowledge on attribute non-attendance</title>
+      <link>/publication/jocm-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/jocm-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response time in online stated choice experiments: the non-triviality of identifying fast and slow respondents</title>
+      <link>/publication/jeep-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/jeep-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The determinants of brownfields redevelopment in England</title>
+      <link>/publication/ere_2017b/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ere_2017b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Students’ preferences for attributes of postgraduate economics modules: Evidence from a multi-profile best-worst scaling survey</title>
+      <link>/publication/iree-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/iree-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

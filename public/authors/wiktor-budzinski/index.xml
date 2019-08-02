@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wiktor Budziński on Applied Choice Research Group</title>
+    <link>/authors/wiktor-budzinski/</link>
+    <description>Recent content in Wiktor Budziński on Applied Choice Research Group</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year} Applied Choice Research Group</copyright>
+    <lastBuildDate>Fri, 29 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/wiktor-budzinski/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using geographically weighted choice models to account for the spatial heterogeneity of preferences</title>
+      <link>/publication/jae-2018/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/jae-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial heterogeneity of willingness to pay for forest management</title>
+      <link>/publication/ere_2017a/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ere_2017a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

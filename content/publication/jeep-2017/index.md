@@ -1,0 +1,43 @@
+---
+abstract: In this paper, we use paradata relating to the length of time respondents required in a self-administered online stated preference surveys. Although this issue has been previously explored, there is little guidance on how to identify and deal with ‘fast’ and ‘slow’ respondents. In this paper, we use scale-adjusted latent class models to address preference and variance heterogeneity and explore how class membership varies with response latency. To test our methodology, we use stated choice data collected via an online survey to establish German anglers’ preferences for fishing site attributes in Denmark. Results from our analysis corroborate that response latency has a bearing on the estimates of utility coefficients and the error variance. Although the results highlight the non-triviality of identifying fast and slow respondents, they signal the need to estimate a large number of candidate models to identify the most appropriate ‘fast’ and ‘slow’ thresholds. Not doing so is likely to lead to an inferior model and has repercussions for marginal willingness to pay estimates and choice predictions.
+authors:
+- Danny-Campbell
+- Morten Raun Mørkbak
+- Søren Bøye Olsen
+date: ""
+doi: ""
+featured: true
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+links:
+- name: Access
+  url: https://doi.org/10.1080/21606544.2016.1167632
+  icon_pack: "fas"
+  icon: "download"
+projects: ""
+publication: '*Journal of Environmental Economics and Policy*, 6: 17-35'
+publication_short: ""
+publication_types:
+- "2"
+publishDate: "2017-07-01T00:00:00Z"
+slides: ""
+summary: In this paper, we use paradata relating to the length of time respondents required in a self-administered online stated preference surveys. Although this issue has been previously explored, there is little guidance on how to identify and deal with ‘fast’ and ‘slow’ respondents. In this paper, we use scale-adjusted latent class models to address preference and variance heterogeneity and explore how class membership varies with response latency. To test our methodology, we use stated choice data collected via an online survey to establish German anglers’ preferences for fishing site attributes in Denmark. Results from our analysis corroborate that response latency has a bearing on the estimates of utility coefficients and the error variance. Although the results highlight the non-triviality of identifying fast and slow respondents, they signal the need to estimate a large number of candidate models to identify the most appropriate ‘fast’ and ‘slow’ thresholds. Not doing so is likely to lead to an inferior model and has repercussions for marginal willingness to pay estimates and choice predictions.
+tags:
+- Angling recreation
+- Online surveys
+- Paradata
+- Response latency
+- Scale-adjusted latent class
+- Stated choice experiments
+title: "Response time in online stated choice experiments: the non-triviality of identifying fast and slow respondents"
+url_code: ""
+url_dataset: ""
+url_pdf: ""
+url_poster: ""
+url_project: ""
+url_slides: ""
+url_source: ""
+url_video: ""
+---

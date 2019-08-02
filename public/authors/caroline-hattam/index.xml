@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Caroline Hattam on Applied Choice Research Group</title>
+    <link>/authors/caroline-hattam/</link>
+    <description>Recent content in Caroline Hattam on Applied Choice Research Group</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year} Applied Choice Research Group</copyright>
+    <lastBuildDate>Thu, 01 Feb 2018 00:00:10 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/caroline-hattam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The role of interdisciplinary collaboration for stated preference methods to value marine environmental goods and ecosystem services</title>
+      <link>/publication/ecss-2018/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:10 +0000</pubDate>
+      
+      <guid>/publication/ecss-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motivations matter: Behavioural determinants of preferences for remote and unfamiliar environmental goods</title>
+      <link>/publication/ee-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ee-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
